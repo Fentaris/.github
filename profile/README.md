@@ -1,10 +1,8 @@
 <div align="center" style="margin: 0 auto; max-width: 80%;">
   <picture>
-    <img alt="Panther logo" src="./static/logo_white.svg" width="80%" style="margin: 20px auto;">
+    <img alt="Panther logo" src="./static/logo_white.svg" width="90%" style="margin: 20px auto;">
   </picture>
 </div>
-
-<h1 align="center">by panther-io</h1>
 
 <p align="center">
   Panther is the open source way to route, govern, and observe multiple MCP servers through one controlled endpoint.
